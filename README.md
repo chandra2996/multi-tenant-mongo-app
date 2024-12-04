@@ -1,4 +1,4 @@
-This Demo application, is to demonstrate achieving multi-tenanccy architecture in SAAS ecosystem.
+This Demo application, is to demonstrate achieving multi-tenanccy architecture in SAAS ecosystem with Spring boot, Mongo Database.
 This application, allows to share same infra for all tenant, isolating the databases for each tenant.
 
 It can be used ->
