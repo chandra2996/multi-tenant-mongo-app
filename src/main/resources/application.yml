@@ -1,0 +1,6 @@
+server:
+  port: 8081
+app:
+  connStrings:
+    client1: mongodb://localhost:27017/client1
+    client2: mongodb://localhost:27017/client2
